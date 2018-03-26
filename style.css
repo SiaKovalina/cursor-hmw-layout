@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+.logo-wrapper {
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.logo {
+    height: 50px;
+    width: 20%;
+    margin-right: auto;
+    background: #ccd1d8;
+}
+.ad-box {
+    height: 50px;
+    width: 50%;
+    background: #ccd1d8;
+}
+.main-nav {
+    width: 100%;
+    background: #ccd1d8;
+    height: 50px;
+    margin-bottom: 25px;
+}
+.main-wrapper {
+    display: flex;
+    margin-bottom: 25px;
+}
+.col-1 {
+    width: 50%;
+}
+.deal-of-the-week {
+    height: 150px;
+    background: #ccd1d8;
+}
+.partners {
+    height: 200px;
+    background: #ccd1d8;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.categorized-deals {
+    height: 300px;
+    background: #ccd1d8;
+}
+.col-2 {
+    width: 23%;
+    margin-left: 2%;
+}
+.membership {
+    height: 200px;
+    background: #ccd1d8;
+    margin-bottom: 25px;
+}
+.pet-insur {
+    height: 475px;
+    background: #ccd1d8;
+}
+.col-3 {
+    width: 23%;
+    margin-left: 2%;
+}
+.desc {
+    height: 130px;
+    background: #ccd1d8;
+    margin-bottom: 25px;
+}
+.blog-posts {
+    height: 350px;
+    background: #ccd1d8;
+    margin-bottom: 25px;
+}
+.forum-posts {
+    height: 170px;
+    background: #ccd1d8;
+}
+footer {
+    height: 70px;
+    background: #ccd1d8;
+    margin-bottom: 25px;
+}
